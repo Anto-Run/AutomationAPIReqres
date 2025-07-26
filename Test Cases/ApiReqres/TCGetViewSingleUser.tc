@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case Get View Single User</description>
+   <name>TCGetViewSingleUser</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>37cd7656-78b5-4346-8a39-c191e199c736</testCaseGuid>
+</TestCaseEntity>

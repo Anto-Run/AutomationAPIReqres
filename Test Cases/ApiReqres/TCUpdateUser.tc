@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case Update User</description>
+   <name>TCUpdateUser</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5168cad7-6c8d-448a-aa1a-8d3cb2566177</testCaseGuid>
+</TestCaseEntity>
